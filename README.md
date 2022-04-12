@@ -5,5 +5,5 @@
 * :desktop_computer: I love technology
 * :volleyball: and playing volleyball
 * :cookie: but I make a mean cookie
-* :book: Currently reading: [Loonshots by Safi Bahcall](https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries/dp/1250185963)
+* :book: Currently reading: [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
 * :headphones: Latest podcast obsession: [Darknet Diaries](https://darknetdiaries.com/), [Accidental Tech Podcast](https://atp.fm), and [99 Percent Invisible](https://99percentinvisible.org/)
