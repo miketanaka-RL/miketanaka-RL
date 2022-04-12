@@ -4,6 +4,6 @@
 
 * :desktop_computer: I love technology
 * :volleyball: and playing volleyball
-* :cookie: but I make a mean cookie
+* :cookie: but I make a mean chocolate chip cookie
 * :book: Currently reading: [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
 * :headphones: Latest podcast obsession: [Darknet Diaries](https://darknetdiaries.com/), [Accidental Tech Podcast](https://atp.fm), and [99 Percent Invisible](https://99percentinvisible.org/)
